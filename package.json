@@ -1,0 +1,28 @@
+{
+  "name": "chandrashtam-reminder",
+  "version": "1.0.0",
+  "description": "A Next.js application that calculates Chandrashtam based on current moon position using Swiss Ephemeris",
+  "author": "Hokage-Mihir",
+  "license": "AGPL-3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "swisseph": "^0.5.17"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.6",
+    "node-loader": "^2.0.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
