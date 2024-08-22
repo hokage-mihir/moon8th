@@ -1,5 +1,5 @@
 # Chandrashtam Calculator
-    **Please note this my first ever app**
+   Please note this my first ever app
 
    This Next.js application calculates the Chandrashtam (8th) Rashi based on the current moon position using Swiss Ephemeris. 
 
